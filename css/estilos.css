@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    font-family: sans-serif;
+}
+.capamenu{
+    float: left;
+    background-color: black;
+    color: white;
+    width: 20%;
+}
+
+.capamenu li a{
+    text-decoration: none;
+    color: white;
+}
+
+.capamenu li{
+    display: block;
+    padding: 5px;
+}
+
+.capamenu li :hover{
+    filter: brightness(0.5);
+    transition: 0.5s;
+}
+.capacontenido{
+    background-color: orange;
+    width: 80%;
+}
