@@ -24,6 +24,11 @@ body{
     transition: 0.5s;
 }
 .capacontenido{
-    background-color: orange;
+    float: left;
     width: 80%;
+}
+
+.capa1{
+    background-color: blue;
+    padding: 10px;
 }
